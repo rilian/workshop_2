@@ -1,5 +1,7 @@
 /* Desktop layout */
 body {
-  width: 920px; }
+  width: 920px;
+  margin-left: auto;
+  margin-right: auto; }
 
 /* Mobile layout: 320px */
